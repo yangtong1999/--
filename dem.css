@@ -175,6 +175,7 @@ body{
 .con_aa ul{
 	float: right;
 	margin-right: 50px;
+	width:214px;
 }
 .con_aa a:hover{
 	text-decoration: underline;
