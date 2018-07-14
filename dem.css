@@ -174,7 +174,7 @@ body{
 }
 .con_aa ul{
 	float: right;
-	margin-right: 70px;
+	margin-right: 50px;
 }
 .con_aa a:hover{
 	text-decoration: underline;
@@ -201,7 +201,7 @@ body{
 	width: 350px;
 	height: 420px;
 	float: right;
-/* 	margin-top: -421px; */
+	margin-top: -421px;
 }
 .con_ab1{
 	width: 350px;
